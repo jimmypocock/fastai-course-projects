@@ -18,7 +18,7 @@ A collection of deep learning projects completed as part of the FastAI Practical
 **Dataset:** Sign Language MNIST (27,455 images, 24 classes)  
 **Target Accuracy:** >95%  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jimmypocock/fastai-course-projects/blob/main/01_image_recognition/sign_language_mnist.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jimmypocock/fastai-course-projects/blob/main/01_image_recognition/sign_language.ipynb)
 
 **Key Techniques:**
 
@@ -74,7 +74,7 @@ A collection of deep learning projects completed as part of the FastAI Practical
 fastai-course-projects/
 ├── README.md
 ├── 01_image_recognition/
-│   ├── sign_language_mnist.ipynb
+│   ├── sign_language.ipynb
 │   └── fresh_rotten_fruits.ipynb
 ├── 02_advanced_projects/
 │   └── (future projects)
@@ -132,6 +132,15 @@ Feel free to reach out if you have questions or suggestions!
 
 **GitHub:** [@jimmypocock](https://github.com/jimmypocock)  
 **LinkedIn:** [Jimmy Pocock](https://linkedin.com/in/jimmypocock)
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Note:** Individual datasets used in these projects may have their own licenses:
+
+- Sign Language MNIST: CC BY-SA 4.0
+- Other datasets: Check individual sources
 
 ---
 
